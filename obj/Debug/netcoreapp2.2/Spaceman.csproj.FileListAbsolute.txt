@@ -1,0 +1,12 @@
+F:\Projects\spaceman\bin\Debug\netcoreapp2.2\Spaceman.deps.json
+F:\Projects\spaceman\bin\Debug\netcoreapp2.2\Spaceman.runtimeconfig.json
+F:\Projects\spaceman\bin\Debug\netcoreapp2.2\Spaceman.runtimeconfig.dev.json
+F:\Projects\spaceman\bin\Debug\netcoreapp2.2\Spaceman.dll
+F:\Projects\spaceman\bin\Debug\netcoreapp2.2\Spaceman.pdb
+F:\Projects\spaceman\obj\Debug\netcoreapp2.2\Spaceman.csprojAssemblyReference.cache
+F:\Projects\spaceman\obj\Debug\netcoreapp2.2\Spaceman.csproj.CoreCompileInputs.cache
+F:\Projects\spaceman\obj\Debug\netcoreapp2.2\Spaceman.AssemblyInfoInputs.cache
+F:\Projects\spaceman\obj\Debug\netcoreapp2.2\Spaceman.AssemblyInfo.cs
+F:\Projects\spaceman\obj\Debug\netcoreapp2.2\Spaceman.dll
+F:\Projects\spaceman\obj\Debug\netcoreapp2.2\Spaceman.pdb
+F:\Projects\spaceman\obj\Debug\netcoreapp2.2\Spaceman.genruntimeconfig.cache
